@@ -15,7 +15,7 @@ Extract the zip file and open the index.html with any modern web-browser.
 
 ## Authors
 
-👤 **Author1**
+👤 Ayush Jha
 
 - GitHub: [@Jhaman1895](https://github.com/Jhaman1895)
 
